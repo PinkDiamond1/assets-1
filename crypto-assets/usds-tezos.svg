@@ -1,6 +1,5 @@
 <svg width="50" height="50" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <g clip-path="url(#USDC+Tezos__clip0)">
-    <path d="M50 0H0v50h50V0z" fill="#fff"/>
     <path d="M23.5 47A23.444 23.444 0 0047 23.5 23.444 23.444 0 0023.5 0 23.444 23.444 0 000 23.5 23.444 23.444 0 0023.5 47z" fill="#F5F8FB"/>
     <path d="M48-1H-1v49h49V-1z" fill="url(#USDC+Tezos__pattern0)"/>
     <path d="M46 28.5H32a3.5 3.5 0 00-3.5 3.5v14a3.5 3.5 0 003.5 3.5h14a3.5 3.5 0 003.5-3.5V32a3.5 3.5 0 00-3.5-3.5z" fill="#F5F8FB"/>
@@ -8,9 +7,6 @@
     <path d="M46 28.5H32a3.5 3.5 0 00-3.5 3.5v14a3.5 3.5 0 003.5 3.5h14a3.5 3.5 0 003.5-3.5V32a3.5 3.5 0 00-3.5-3.5z" stroke="#E8EAED"/>
   </g>
   <defs>
-    <clipPath id="USDC+Tezos__clip0">
-      <path fill="#fff" d="M0 0h50v50H0z"/>
-    </clipPath>
     <pattern id="USDC+Tezos__pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
       <use xlink:href="#USDC+Tezos__image0" transform="scale(.00625)"/>
     </pattern>
