@@ -1,5 +1,9 @@
 # assets
-Ramp Network assets 
+Ramp Network assets.
+
+## Merging assets
+
+Please ask Maciej Bembenista for review and merge once you're ready.
 
 ## Optimizing images
 Images account for nearly [two-thirds of average webpage bandwidth](https://cloudinary.com/blog/top_10_mistakes_in_handling_website_images_and_how_to_solve_them).
